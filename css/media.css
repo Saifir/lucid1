@@ -1,0 +1,109 @@
+
+@media (min-width:0px) and (max-width:575px){
+        .phone{
+            display: none;
+        }
+        .bannar_content h5 {
+            text-align: center;
+            font-size: 20px;
+        }
+        .bannar_content h1 {
+            text-align: center;
+            font-size: 40px;
+        }
+
+        .bannar_content p {
+            font-size: 15px;
+            text-align: center;
+            margin-top: 20px;
+        }
+        .btn-download {
+            padding: 10px 20px;
+
+        }
+
+        .btn-feature {
+            padding: 10px 20px;
+        }
+        .bannar_content{
+            text-align: center;
+        }
+
+        .navbar-light .navbar-nav .nav-link:hover::after{
+            width: 0%;
+        }
+        
+        .navbar-light .navbar-nav .nav-link:hover::before{
+            width: 0%;
+        }
+
+        .feature{
+            padding: 0 20px !important;
+        }
+
+        .img-fluid {
+            max-width: 50%;
+            margin-left: 26%;
+        }
+
+        .heading span {
+            margin: auto;
+            display: block;
+        }
+
+        .heading h1 {
+            text-align: center;
+        }
+
+        .heading h5 {
+            text-align: center;
+        }
+
+        .heading p {
+            text-align: center;
+        }
+
+        .feature_tow ul li {
+            margin-bottom: 13px;
+            margin-left: 30%;
+        }
+
+        .heading {
+            padding-top: 0 !important;
+        }
+
+        .feature_three {
+            padding-top: 0 !important;
+        }
+
+        .testimonial p {
+            text-align: left;
+        }
+
+        .carousel {
+            padding: 15px 30px;
+        }
+
+        .what_you_see h1 {
+            font-size: 29px;
+            padding-bottom: 10px;
+        }
+
+        .btn-feature, .btn-download {
+            padding: 10px 15px;
+        }
+
+        .info {
+            margin-bottom: 15px;
+        }
+
+        .pricing {
+            margin: 15px 10px !important;
+        }
+
+        .contact_form {
+            padding: 20px;
+            top: 75%;
+            left: 13%;
+        }
+}
